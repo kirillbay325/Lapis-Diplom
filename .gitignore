@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+package-lock.json
+public/build/
+
+# Python
+__pycache__/
+*.pyc
+.env
+*.db  
+
+# Other
+.DS_Store
+Thumbs.db
