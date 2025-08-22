@@ -22,6 +22,9 @@ pip install pyjwt
 python -m uvicorn main:app --reload
 ```
 
+----------------
+----------------
+
 Eng
 
 This is a project of me and my friend, a freelance platform for clients and freelancers
